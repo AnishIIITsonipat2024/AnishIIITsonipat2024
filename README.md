@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @Anish currently in btech 1st year  in iiit sonipath.
-- 👀 I’m interested in data structure and algorithm ,wev developnment
-- 🌱 I’m currently learning data structure and algorithm in c++ language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by linkindin
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m **@Anish**
+
+🎓 I’m a **B.Tech 2nd year student at IIIT Sonepat**, and also pursuing an **AI/ML Credit Linked Program from IIT Guwahati**.
+
+🤖 I’m passionate about **Artificial Intelligence, Machine Learning, and Computer Vision**.
+
+📚 Currently learning and working on:
+• **Data Structures and Algorithms (C++)**
+• **Deep Learning (CNN, GANs, Autoencoders)**
+• **Computer Vision (YOLO, Image Processing)**
+• **Full Stack Web Development**
+
+🚀 I love building **AI projects combining multiple models like GAN + Autoencoder + YOLO** to solve real-world problems.
+
+🤝 I’m looking to collaborate on **AI/ML, Deep Learning, and Open Source projects**.
+
+📫 How to reach me: **Connect with me on LinkedIn**
+
+😄 Pronouns: **He/Him**
+
+⚡ Fun fact: I enjoy experimenting with **different AI architectures and turning ideas into real working projects.**
+
 
 <!---
 Anish-coder09/Anish-coder09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
