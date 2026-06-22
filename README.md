@@ -2,11 +2,8 @@
 
 ### AI/ML Engineer | python developer Developer | B.Tech CSE Student
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
----
+
 
 # 💫 About Me
 
